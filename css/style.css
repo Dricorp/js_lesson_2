@@ -1,0 +1,45 @@
+.wrapper {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+.header {
+}
+.page {
+	background: rgb(206, 204, 204);
+}
+.page__main {
+}
+.page__task {
+	border: 1px solid #000;
+	border-radius: 5px;
+	padding: 15px;
+	background-color: rgb(178, 187, 160);
+}
+.page__task:not(:last-child) {
+	margin-bottom: 15px;
+}
+.page__task p {
+	margin-bottom: 2px;
+}
+.page__task a:hover {
+	text-decoration: underline;
+}
+.task_null {
+}
+.task_1 {
+}
+.task_2 {
+}
+.task_3 {
+}
+.task_4 {
+}
+.task_5 {
+}
+.task_6 {
+}
+.task_7 {
+}
+.footer {
+}
